@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/v-rmaharjan/232a87ec-f47c-4215-9320-d5c431e6353e/00071f88-b29c-4136-878a-9566b9eb78ac/_apis/work/boardbadge/875bdb5c-fa33-4406-b244-7c9ba7099bdd)](https://dev.azure.com/v-rmaharjan/232a87ec-f47c-4215-9320-d5c431e6353e/_boards/board/t/00071f88-b29c-4136-878a-9566b9eb78ac/Microsoft.RequirementCategory)
 # AzOps Accelerator
 
 This template repository helps you get started with the [AzOps](https://github.com/Azure/AzOps) integrated CI/CD solution. It showcases how the AzOps can be used in Azure DevOps and GitHub to pull and push Azure resources such as policyDefinitions, policyAssignments and roleAssignments. 
